@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 # Hello, I'm ExILIT 👋 
-⚡ I’m currently learning Phyton.
+⚡ I’m currently learning English/C++.
 
 > Let the once so-called "good" pass. <br>
 The future is still in sight.
