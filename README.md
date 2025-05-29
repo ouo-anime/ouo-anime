@@ -5,9 +5,12 @@
 <!-- Gif -->
 ![](https://github.com/ouo-anime/ouo-anime/blob/main/Sword.gif)
 
-<!-- Quote -->
+Quote
 > Let the once so-called "good" pass. <br>
 The future is still in sight.
+> 
+To-DO Summer 2025
+> [ ] C++ <br> [ ] DevOps <br> [ ] Android Dev <br> [ ] Kotlin
 
 ### ⚙️ Setup
 ```bash
