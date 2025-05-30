@@ -12,26 +12,18 @@ The future is still in sight.
 To-DO Summer 2025
 > [ ] C++ <br> [ ] DevOps <br> [ ] Android Dev <br> [ ] Kotlin
 
-### ⚙️ Setup
-```bash
-🧠 OS:        Arch Linux (btw...)
-🧪 Editor:    Neovim / Code OSS / IntelliJ IDEA
-💾 Terminal:  Kitty
-🖼️ Desktop:   KDE Plasma 6
-```
-
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
+<div style="display: flex; flex-direction: column; gap: 20px; max-width: 90%;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ouo-anime&show_icons=true&theme=tokyonight&bg_color=000000&title_color=DA70D6&icon_color=DA70D6&text_color=ffffff"
-    style="width: 100%; max-width: 500px; border-radius: 10px;"
+    style="width: 60%; max-width: 100px; border-radius: 10px;"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ouo-anime&theme=tokyonight&background=000000&ring=DA70D6&currStreakLabel=ffffff&sideLabels=ffffff"
-    style="width: 100%; max-width: 500px; border-radius: 10px;"
+    style="width: 60%; max-width: 100px; border-radius: 10px;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouo-anime&layout=compact&theme=tokyonight&bg_color=000000&title_color=DA70D6&text_color=ffffff"
-    style="width: 100%; max-width: 500px; border-radius: 10px;"
+    style="width: 60%; max-width: 100px; border-radius: 10px;"
   />
 </div>
 
