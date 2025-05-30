@@ -5,12 +5,14 @@
 <!-- Gif -->
 ![](https://github.com/ouo-anime/ouo-anime/blob/main/Sword.gif)
 
-Quote
-> Let the once so-called "good" pass. <br>
-The future is still in sight.
-> 
-To-DO Summer 2025
-> [ ] C++ <br> [ ] DevOps <br> [ ] Android Dev <br> [ ] Kotlin
+> **Let the once so-called "good" pass.** <br>
+> **The future is still in sight.** <br>
+
+> **To-Do Summer 2025** <br>
+> - [ ] **C++** <br>
+> - [ ] **DevOps** <br>
+> - [ ] **Android Dev** <br>
+> - [ ] **Kotlin** <br>
 
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 90%;">
   <img 
