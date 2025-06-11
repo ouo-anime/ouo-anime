@@ -13,6 +13,7 @@
 > - [ ] **DevOps** <br>
 > - [ ] **Android Dev** <br>
 > - [ ] **Kotlin** <br>
+> - [ ] **Python** <br>
 
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 90%;">
   <img 
