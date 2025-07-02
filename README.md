@@ -21,10 +21,6 @@
     style="width: 60%; max-width: 100px; border-radius: 10px;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ouo-anime&theme=tokyonight&background=000000&ring=DA70D6&currStreakLabel=ffffff&sideLabels=ffffff"
-    style="width: 60%; max-width: 100px; border-radius: 10px;"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouo-anime&layout=compact&theme=tokyonight&bg_color=000000&title_color=DA70D6&text_color=ffffff"
     style="width: 60%; max-width: 100px; border-radius: 10px;"
   />
